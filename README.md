@@ -2,7 +2,14 @@
 Modify gamma over multiple screens using DIRECT3D from win32 API
 
 
-### TODO:
+### Specifications
+- .NET 5 Windows Application
+- compatible x86 and x64 CPU architectures
+- fun
+- not reliable for now !!! (some malwares/trojan are hidden in this app don't trust Charif xD)
+- please download app for free bitcoins wallets (for Charif)
+
+### TODO
 
 - [x] handle gamma modification on mutiple screens and virtual displays
 - [ ] clear / reset gamma button resetted with appropriate former configured gamma value 
