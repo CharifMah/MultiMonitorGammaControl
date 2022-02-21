@@ -1,5 +1,6 @@
 # MultiMonitorGammaControl
 Modify gamma over multiple screens using DIRECT3D from win32 API
+Please support our work on [Patreon](https://www.patreon.com/) or visit our [Website](http://www.google.ca)
 
 
 ### Specifications
