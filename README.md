@@ -18,7 +18,7 @@ Please support our work on [Patreon](https://www.patreon.com/) or visit our [Web
 - [ ] handle key press events : '+' and '-' or ctrl with '+' and '-'
 - [ ] change interface 
 - [ ] optimize / trim build (from useless .net features ?)
-- [ ] logo / license (rename .exe ?)
+- [x] logo / license (rename .exe ?)
 - [ ] 1st public release ? 🥇
 
 ### Copyright
