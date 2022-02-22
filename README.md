@@ -13,7 +13,7 @@ Please support our work on [Patreon](https://www.patreon.com/) or visit our [Web
 ### TODO
 
 - [x] handle gamma modification on mutiple screens and virtual displays
-- [ ] choose display to apply correction of gamma
+- [x] choose display to apply correction of gamma
 - [ ] clear / reset gamma button resetted with appropriate former configured gamma value 
 - [ ] handle key press events : '+' and '-' or ctrl with '+' and '-'
 - [ ] change interface 
