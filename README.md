@@ -4,7 +4,7 @@ Please support our work on [Patreon](https://www.patreon.com/) or visit our [Web
 
 
 ### Specifications
-- .NET 5 Windows Application
+- .NET 6 Windows Application
 - compatible x86 and x64 CPU architectures
 - fun
 - not reliable for now !!! (some malwares/trojan are hidden in this app don't trust Charif xD)
