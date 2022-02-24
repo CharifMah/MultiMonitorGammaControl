@@ -14,12 +14,12 @@ Please support our work on [Patreon](https://www.patreon.com/) or visit our [Web
 
 - [x] handle gamma modification on mutiple screens and virtual displays
 - [x] choose display to apply correction of gamma
-- [ ] clear / reset gamma button resetted with appropriate former configured gamma value 
-- [ ] handle key press events : '+' and '-' or ctrl with '+' and '-'
-- [ ] change interface 
+- [x] clear / reset gamma button resetted with appropriate former configured gamma value 
+- [x] handle key press events : '+' and '-' or ctrl with '+' and '-'
+- [x] change interface 
 - [ ] optimize / trim build (from useless .net features ?)
 - [x] logo / license (rename .exe ?)
-- [ ] 1st public release ? 🥇
+- [x] 1st public release ? 🥇
 
 ### Copyright
 By Mahmoud Charif, reviewing and tutoring by [Laurent LEGAZ](http://laurent.legaz.eu)
