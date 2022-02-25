@@ -2,8 +2,15 @@
 Modify gamma over multiple screens using DIRECT3D from win32 API.  
 Please support our work on [Patreon](https://www.patreon.com/) or visit our [Website](http://www.google.ca).
 
+### HotKey
+
+- Ctrl + Add (Ctrl + +) Increases Gamma
+- Ctrl + Substract (Ctrl + -) Decreases gamma
+- Ctrl + Multiply (Ctrl + *) Reset Gamma
 
 ### Specifications
+
+
 - .NET 6 Windows Application
 - compatible x86 and x64 CPU architectures
 - fun
