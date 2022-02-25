@@ -26,7 +26,7 @@ To install MMGC you need to install the certificate follow this step :
 
 - .NET 6 Windows Application
 - compatible x86 and x64 CPU architectures
-- fun
+- compatible with versions of windows 10 and Windows 11
 - not reliable for now !!! (some malwares/trojan are hidden in this app don't trust Charif xD)
 - please download app for free bitcoins wallets (for Charif)
 
