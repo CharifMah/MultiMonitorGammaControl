@@ -36,6 +36,7 @@ To install MMGC you need to install the certificate follow this step :
 - [x] choose display to apply correction of gamma
 - [x] clear / reset gamma button resetted with appropriate former configured gamma value 
 - [x] handle key press events : '+' and '-' or ctrl with '+' and '-'
+- [ ] Minimized App
 - [ ] change interface 
 - [ ] optimize / trim build (from useless .net features ?)
 - [ ] possibility to bind HotKeys
