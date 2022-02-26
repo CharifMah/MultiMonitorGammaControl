@@ -40,7 +40,6 @@ To install MMGC you need to install the certificate follow this step :
 - [ ] change interface 
 - [ ] optimize / trim build (from useless .net features ?)
 - [ ] possibility to bind HotKeys
-- [ ] 
 - [x] logo / license (rename .exe ?)
 - [x] 1st public release ? 🥇
 
