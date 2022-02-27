@@ -6,7 +6,7 @@ Please support our work on [Patreon](https://www.patreon.com/) or visit our [Web
 
 ### ⚠Warning⚠
 
-To install MMGC you need to install the certificate follow this step : 
+To install MMGC you need to install the certificate before please follow these step : 
 
 ![image](https://user-images.githubusercontent.com/91829231/155719319-9ffb7e15-5cc7-4573-8613-8b32f1c976b5.png)
 
