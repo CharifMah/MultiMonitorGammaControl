@@ -6,7 +6,7 @@ Please support our work on [Patreon](https://www.patreon.com/) or visit our [Web
 
 ### ⚠Warning⚠
 
-To install MMGC you need to install the certificate before please follow these step : 
+To install MMGC you need first to install the certificate before please follow these step : 
 
 ![image](https://user-images.githubusercontent.com/91829231/155719319-9ffb7e15-5cc7-4573-8613-8b32f1c976b5.png)
 
@@ -38,9 +38,9 @@ To install MMGC you need to install the certificate before please follow these s
 - [x] choose display to apply correction of gamma
 - [x] clear / reset gamma button resetted with appropriate former configured gamma value (Initial Gamma)
 - [x] handle key press events : '+' and '-' or ctrl with '+' and '-'
-- [ ] Minimized App
-- [ ] change interface 
-- [ ] optimize / trim build (from useless .net features ?)
+- [x] Minimized App
+- [x] change interface 
+- [x] optimize / trim build (from useless .net features ?)
 - [ ] possibility to bind HotKeys
 - [x] logo / license (rename .exe ?)
 - [x] 1st public release ? 🥇
