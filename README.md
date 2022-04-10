@@ -4,9 +4,15 @@
 Modify gamma over multiple screens using DIRECT3D from win32 API.  
 Please support our work on [Patreon](https://www.patreon.com/) or visit our [Website](http://www.google.ca).
 
+![image](https://user-images.githubusercontent.com/91829231/162597518-e87b48c6-a0e8-4a2c-bbcd-18a2fdcb58cc.png)
+![image](https://user-images.githubusercontent.com/91829231/162597498-13081c5d-9c37-4b15-99ee-ca785bc50c31.png)
+
+
 ### ⚠Warning⚠
 
-To install MMGC you need first to install the certificate before please follow these step : 
+To install MMGC you need to install first the certificate before.
+
+Please follow those steps : 
 
 ![image](https://user-images.githubusercontent.com/91829231/155719319-9ffb7e15-5cc7-4573-8613-8b32f1c976b5.png)
 
@@ -31,17 +37,21 @@ To install MMGC you need first to install the certificate before please follow t
 - Minimal version : Windows 10 version 1803
 - not reliable for now !!! (some malwares/trojan are hidden in this app don't trust Charif xD)
 - please download app for free bitcoins wallets (for Charif)
+- does not work with screens that do not support DDC/CI (Not for Gamma)
 
 ### ✔ TODO
 
 - [x] handle gamma modification on mutiple screens and virtual displays
-- [x] choose display to apply correction of gamma
+- [x] choose the display to apply correction of gamma
 - [x] clear / reset gamma button resetted with appropriate former configured gamma value (Initial Gamma)
 - [x] handle key press events : '+' and '-' or ctrl with '+' and '-'
-- [x] Minimized App
-- [x] change interface 
+- [x] minimized App
+- [x] change the interface 
 - [x] optimize / trim build (from useless .net features ?)
 - [ ] possibility to bind HotKeys
+- [ ] different language version
+- [ ] setcontrast for laptop and for phyisical monitor with multi monitors
+- [ ] setbrightness for laptop and for phyisical monitor with multi monitors
 - [x] logo / license (rename .exe ?)
 - [x] 1st public release ? 🥇
 
