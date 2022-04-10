@@ -53,7 +53,7 @@ Please follow those steps :
 - [ ] setcontrast for laptop and for phyisical monitor with multi monitors
 - [ ] setbrightness for laptop and for phyisical monitor with multi monitors
 - [x] logo / license (rename .exe ?)
-- [x] 1st public release ? 🥇
+- [ ] 1st public release ? 🥇
 
 ### © Copyright
 By Mahmoud Charif, reviewing and tutoring by [Laurent LEGAZ](http://laurent.legaz.eu)
