@@ -41,6 +41,7 @@ Please follow those steps :
 
 ### ✔ TODO
 
+- [ ] correction for the display that does not support DDC/CI for Brightness and Contrast
 - [x] handle gamma modification on mutiple screens and virtual displays
 - [x] choose the display to apply correction of gamma
 - [x] clear / reset gamma button resetted with appropriate former configured gamma value (Initial Gamma)
