@@ -50,7 +50,7 @@ Please follow those steps :
 - [x] change the interface 
 - [x] optimize / trim build (from useless .net features ?)
 - [ ] possibility to bind HotKeys
-- [ ] different language version
+- [x] different language version
 - [ ] setcontrast for laptop and for phyisical monitor with multi monitors
 - [ ] setbrightness for laptop and for phyisical monitor with multi monitors
 - [x] logo / license (rename .exe ?)
