@@ -11,6 +11,7 @@ Please support our work on [Patreon](https://www.patreon.com/) or visit our [Web
 ### ⚠Warning⚠
 
 To install MMGC you need to install first the certificate before.
+MMGC is exclusively designed to work with DDCI monitors for now.
 
 Please follow those steps : 
 
